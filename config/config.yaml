@@ -177,7 +177,7 @@ vhosts:
     ServerAdmin: webmaster@localhost
 
     ServerName: yii
-    Alias / "/var/www/yii/basic/web/"
+    Alias: / "/var/www/yii/basic/web/"
     ServerAlias: yii.dev www.yii.dev
     DocumentRoot: /var/www/yii
     ServerAdmin: webmaster@localhost
