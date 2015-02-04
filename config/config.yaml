@@ -159,7 +159,7 @@ directory:
 ### Open the hosts file and make it look something like:
 ### 127.0.0.1    localhost localhost.dev www.localhost.dev default default.dev www.default.dev
 ### 127.0.0.1    dev dev.dev www.dev.dev
-### 127.0.0.1    anothersite anothersite.dev www.anothersite.dev
+### 127.0.0.1    yii yii.dev www.yii.dev
 ###
 ### Because localhost is mapped to an example default site, it's crucial you add dev to the hosts file (As demonstrated above) to access folders that don't have a vhost.
 ### Also don't forget to run "vagrant provision" for any changes.
